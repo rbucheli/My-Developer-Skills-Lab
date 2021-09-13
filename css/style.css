@@ -1,0 +1,52 @@
+body {
+  margin: auto;
+  width: 50%;
+  padding: 350px;
+  color: orange
+}
+/* Move unit down to center */
+
+#mainbox {
+  width: 400px;
+  margin: auto;
+} 
+
+#dev-skills-box {
+  background-color: palegreen;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+
+#add-skill {
+  border-color: palegreen;
+  color: palegreen;
+  display: inline-block;
+}
+
+#input-skill {
+  border-color: palegreen;
+  list-style-type: none;
+  width: 75%;
+  display: inline-block;
+}
+
+#li-div {
+  text-align: left;
+}
+
+li {
+  display: inline-block;
+}
+
+.tiny-box {
+  background-color: red;
+  color: white;
+}
+
+
+/* Move content to the center of the page */
+/* Add background-color to "My Developer Skills" */
+/* Add border color to the input box */
+/* Add border color to "Add Skill" button */
+
